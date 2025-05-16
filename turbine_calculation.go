@@ -22,7 +22,7 @@ import (
 
 func main() {
 
-	//// 
+	//// /////
         const beban = 35   //MW
 	const Flow_Gas = 4 //kg/s
 	const LHV = 10000  //Kj/kg
